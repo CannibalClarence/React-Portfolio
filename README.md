@@ -52,5 +52,6 @@ and many more packages included in the package.json
 
 ## contribution
 Made with love by Theo Phillips
+Github: https://github.com/CannibalClarence
 
 
