@@ -60,7 +60,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>About Me</h2>
-                <p>Born and raised in Southern California, commercial electrician of 6 years, with a certficate of web development from Uc Berkely exstention. "almost". A great eye for design and many skills in full stack Web Development. Bass player and vocalist in the band Upon The Water</p>
+                <p>Born and raised in Southern California, commercial electrician of 6 years, with a certficate of web development from UC Berkely exstention "almost." A great eye for design and many skills in full stack Web Development. Bass player and vocalist in the band, Upon The Water</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
