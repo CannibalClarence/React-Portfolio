@@ -22,13 +22,13 @@ export const Projects = () => {
     {
       title: "Whats My Jam",
       description: "Music Radio station api search",
-      link: "https://cannibalclarence.github.io/Whats-My-Jam/",
+      link: "https://cannibalclarence.github.io/Whats-My-Jam/", 
       imgUrl: projImg2,
     },
     {
       title: "Weather Dashboard",
       description: "Application to find what the weather is like, anywhere you want!",
-      link: "https://cannibalclarence.github.io/weather-dashboard/",
+      link: "https://cannibalclarence.github.io/weather-dashboard/", 
       imgUrl: projImg3,
     },
     {
