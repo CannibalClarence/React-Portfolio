@@ -53,6 +53,10 @@ a:hover {
   text-decoration: none;
 }
 
+.container img {
+  align-items: left;
+}
+
 img {
   width: 100%;
   height: auto;
@@ -95,7 +99,7 @@ nav.navbar.scrolled {
   background-color: #121212;
 }
 nav.navbar a.navbar-brand {
-    width: 9%;
+    width: 15%;
 }
 nav.navbar .navbar-nav .nav-link.navbar-link {
   font-weight: 400;
@@ -341,6 +345,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 /************ Projects Css ************/
+strong {
+  align-items: center;
+}
 .project {
   padding: 80px 0;
   position: relative;
@@ -350,6 +357,19 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	font-size: 45px;
 	font-weight: 700;
   text-align: center;
+}
+
+.project iframe {
+  padding: 10px;
+  margin-left: 50px;
+}
+.project h1 {
+  color: #B8B8B8;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  margin: 14px auto 30px auto;
+  text-align: center;
+  width: 56%;
 }
 .project p {
   color: #B8B8B8;
