@@ -8,7 +8,8 @@ SO THAT I can assess whether they're a good candidate for an open position
 ![image](https://user-images.githubusercontent.com/100390351/183328866-3ed86582-4431-4b34-bc6a-3921a0e8a868.png)
 
 # Installation
-Clone the repository, navigate to the project folder on your CLI and run the following command to install the packages: `npm start`
+Clone the repository, navigate to the project folder on your CLI and run the following command to install the packages: `npm install`
+then start the server by running `npm start`
 
 # Built With
 <li>
@@ -49,6 +50,7 @@ and many more packages included in the package.json
 
 
 
-
+## contribution
+Made with love by Theo Phillips
 
 
