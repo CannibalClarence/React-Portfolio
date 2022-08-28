@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.64d0817b.css",
+    "main.js": "/React-Portfolio/static/js/main.e0a896d9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/utw.PNG": "/React-Portfolio/static/media/utw.36253a12e7b3af9b1140.PNG",
+    "static/media/whats-my-jam.png": "/React-Portfolio/static/media/whats-my-jam.7f89911c482ba05c9469.png",
+    "static/media/header1.png": "/React-Portfolio/static/media/header1.87d292b09217dbd72f49.png",
+    "static/media/Me-again.png": "/React-Portfolio/static/media/Me-again.4ddb96a0a3d2d6774704.png",
+    "static/media/my-logo.png": "/React-Portfolio/static/media/my-logo.059d1b705c03b54086cf.png",
+    "static/media/color-sharp.png": "/React-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/React-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/First-Portfolio.png": "/React-Portfolio/static/media/First-Portfolio.5d7faa1c32f17fd471b1.png",
+    "static/media/banner-bg.png": "/React-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/ohshoot.png": "/React-Portfolio/static/media/ohshoot.77c82cd2aabead6be114.png",
+    "static/media/CentraNo2-Bold.ttf": "/React-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/React-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/React-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/weather-dashboard.png": "/React-Portfolio/static/media/weather-dashboard.a1626323731e0b2fa6af.png",
+    "static/media/footer-bg.png": "/React-Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/work-day.png": "/React-Portfolio/static/media/work-day.a24c5d16ce6e6440e4bf.png",
+    "static/media/code-quiz.png": "/React-Portfolio/static/media/code-quiz.06c667fa9a5efb174a80.png",
+    "static/media/revicons.eot": "/React-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/React-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/React-Portfolio/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter1.svg": "/React-Portfolio/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter3.svg": "/React-Portfolio/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/logo.svg": "/React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/React-Portfolio/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/Github-icon.svg": "/React-Portfolio/static/media/Github-icon.d5f7610f57d9032194dbef3c7b4eb040.svg",
+    "static/media/spotify.svg": "/React-Portfolio/static/media/spotify.74159859ac72033b1b55a6a49d0d3689.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "static/media/nav-icon1.svg": "/React-Portfolio/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "main.64d0817b.css.map": "/React-Portfolio/static/css/main.64d0817b.css.map",
+    "main.e0a896d9.js.map": "/React-Portfolio/static/js/main.e0a896d9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d0817b.css",
+    "static/js/main.e0a896d9.js"
+  ]
+}
