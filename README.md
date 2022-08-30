@@ -50,6 +50,8 @@ and many more packages included in the package.json
 
 ![image](https://user-images.githubusercontent.com/100390351/183330430-6c84fae0-f5dc-4106-bd7a-9ecd66744603.png)
 
+## Deployed Link
+https://cannibalclarence.github.io/React-Portfolio/
 
 
 ## contribution
