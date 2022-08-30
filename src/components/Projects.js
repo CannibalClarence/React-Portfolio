@@ -3,7 +3,7 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/ohshoot.png";
 import projImg2 from "../assets/img/whats-my-jam.png";
 import projImg3 from "../assets/img/weather-dashboard.png";
-import projImg4 from "../assets/img/code-quiz.png";
+import projImg4 from "../assets/img/kissmet.png";
 import projImg5 from "../assets/img/work-day.png";
 import projImg6 from "../assets/img/First-Portfolio.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -32,9 +32,9 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Code Quiz",
-      description: "A Coding Quiz exercise",
-      link: "https://cannibalclarence.github.io/Code-quiz/",
+      title: "KissMet",
+      description: "Dating/social-media platform",
+      link: "https://boiling-tor-64905.herokuapp.com/",
       imgUrl: projImg4,
     },
     {
